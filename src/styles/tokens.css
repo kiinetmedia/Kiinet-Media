@@ -1,0 +1,32 @@
+:root {
+  /* ===== Monochrome premium palette ===== */
+  --bg: #0A0A0A;            /* near-black base */
+  --bg-2: #0F0F0F;          /* panel base */
+  --surface: #151515;       /* card surface */
+  --surface-2: #1C1C1C;     /* raised card */
+  --surface-3: #232326;     /* elevated card */
+
+  --line: rgba(255, 255, 255, 0.08);
+  --line-strong: rgba(255, 255, 255, 0.14);
+  --line-bright: rgba(255, 255, 255, 0.22);
+
+  --text: #F5F5F7;          /* primary text */
+  --text-dim: #A8A8AD;      /* secondary text */
+  --text-mute: #6E6E73;     /* tertiary / labels */
+
+  --accent: #FFFFFF;        /* pure white highlight (replaces cyan) */
+  --accent-dim: rgba(255, 255, 255, 0.12);
+  --silver: #C8C8CC;        /* subtle cool-silver */
+  --platinum: #E5E5EA;      /* highlight tier */
+
+  --live: #6EE7A7;          /* one tasteful green for "live" indicator */
+
+  --glow: 0 0 40px rgba(255, 255, 255, 0.10);
+  --glow-soft: 0 0 30px rgba(255, 255, 255, 0.05);
+
+  --font: "Space Grotesk", system-ui, -apple-system, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --container: 1280px;
+  --container-pad: 32px;
+}
