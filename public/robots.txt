@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiinetmedia.in/sitemap.xml
